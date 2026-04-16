@@ -84,6 +84,6 @@ OUTPUT TEMPLATE:
 
 When the interview ends, the AI will produce a finished document. **Read it before you save it.** Check that the picture of how you actually operate professionally is honest — not the ideal version. Add any key relationships or dynamics that did not surface in the interview.
 
-Once you are happy with it, save it as `22-relationships.md` in your `20-business/` folder.
+Once you are happy with it, save it as `24-relationships.md` in your `20-business/` folder.
 
 This is a starting picture, not a complete record. Anyone supporting you should update it as your professional network develops and new relationship context is established.

@@ -96,6 +96,6 @@ How it changes by situation: good news / problem / feedback / saying no.]
 
 When the interview ends, the AI will produce a finished voice profile. **Read it before you save it.** Check that the register, word choices, and "what I never say" list feel genuinely yours — not a polished version of you. If something reads like someone else wrote it, correct it.
 
-Once you are happy with it, save it as `02-voice.md` in your `00-me/` folder.
+Once you are happy with it, save it as `05-voice.md` in your `00-me/` folder.
 
 Add new writing samples to it over time — the more examples, the stronger the guidance. Anyone supporting you can add samples or refine the profile as they learn how you actually communicate.

@@ -1,4 +1,4 @@
-# My Professional World
+# How I Work
 
 ---
 
@@ -6,7 +6,7 @@
 
 Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your professional life — what you do day-to-day, how you work, who you work with, and what energises and drains you. When the interview is done, the chatbot will automatically produce a finished document.
 
-This file covers the texture of how you work right now. Your career arc, structure, and trajectory live in `23-career.md`.
+This file covers the texture of how you work right now. Your career arc, structure, and trajectory live in `21-career.md`.
 
 ---
 
@@ -89,6 +89,6 @@ OUTPUT TEMPLATE:
 
 When the interview ends, the AI will produce a finished document. **Read it before you save it.** Check that the picture of your professional life is accurate and honest — not the polished version. Correct anything that undersells the complexity or oversimplifies what you actually do.
 
-Once you are happy with it, save it as `21-work.md` in your `20-business/` folder.
+Once you are happy with it, save it as `23-how-i-work.md` in your `20-business/` folder.
 
 Update it whenever your professional situation materially changes — new role, new clients, new direction. Anyone supporting you should keep it current as they learn more about the texture of your work.

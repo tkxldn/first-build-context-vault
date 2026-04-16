@@ -109,6 +109,6 @@ OUTPUT TEMPLATE:
 
 When the interview ends, the chatbot will produce a finished career document. **Read it before you save it.** Check that the structure section accurately reflects your current situation — particularly the transition or portfolio sections, which can easily end up either too optimistic or too vague. Correct anything that does not ring true.
 
-Once you are happy with it, save it as `23-career.md` in your `20-business/` folder.
+Once you are happy with it, save it as `21-career.md` in your `20-business/` folder.
 
 This file will need updating more often than most. Career situations change — a new role, a new client, a decision to step back from something, a transition that clarifies. Return to it whenever something significant shifts.

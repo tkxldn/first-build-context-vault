@@ -6,7 +6,7 @@
 
 Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your personal world — your social life, relationships, interests, health, and how you spend your time when you are not working. When the interview is done, the chatbot will automatically produce a finished document.
 
-This file exists because an agent supporting your whole life needs to understand the whole life. Your career arc and professional trajectory live in `23-career.md`. This file covers everything else.
+This file exists because an agent supporting your whole life needs to understand the whole life. Your career arc and professional trajectory live in `21-career.md`. This file covers everything else.
 
 ---
 
@@ -100,6 +100,6 @@ OUTPUT TEMPLATE:
 
 When the interview ends, the AI will produce a finished document. **Read it before you save it.** Check that it captures your actual life — not a sanitised version. Add anything that came to mind during the interview but did not make it into the output.
 
-Once you are happy with it, save it as `05-life.md` in your `00-me/` folder.
+Once you are happy with it, save it as `03-life.md` in your `00-me/` folder.
 
 Update it when life circumstances shift — a new chapter, a change in what matters, a relationship that has grown or faded. Anyone supporting you can update it as they learn more about who you are outside your professional role.

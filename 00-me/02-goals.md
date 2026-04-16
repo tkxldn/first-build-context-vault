@@ -95,6 +95,6 @@ OUTPUT TEMPLATE:
 
 When the interview ends, the AI will produce a finished goals document. **Read it before you save it.** Check that the priorities are real — specific, honest, and yours. If anything reads as aspirational rather than actual, or if a goal is missing that matters, fix it now.
 
-Once you are happy with it, save it as `03-goals.md` in your `00-me/` folder.
+Once you are happy with it, save it as `02-goals.md` in your `00-me/` folder.
 
 Return to it whenever priorities shift — not to measure yourself, but to keep the context current. Whoever is supporting you should update it when they learn something about your goals or direction that is not yet captured here.
