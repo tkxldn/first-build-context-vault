@@ -6,6 +6,8 @@
 
 Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, DeepSeek, Kimi, or any other. The AI will interview you to define the character of your personal agent — not its technical configuration, but who it is: its name, its personality, its values, its aesthetic sensibility, how it speaks, what it notices, what it would never do. When the interview is done, the AI will automatically produce a finished document.
 
+Note: in this file, "the AI" refers to the tool you are using for the interview. "Your personal agent" refers to the one you are building.
+
 Think of this as writing a personality brief for a brilliant new hire — someone exceptional you are bringing into your life to support you. You would not describe them in system settings. You would describe them as a person.
 
 **Do this after completing the first nine files.** You need to have thought through your identity, your work, your life, and your household before you can clearly define the agent you want supporting all of it. Once your agent has a name, rename this file to match — e.g. `31-aria.md`.
@@ -17,7 +19,9 @@ Think of this as writing a personality brief for a brilliant new hire — someon
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
-I am writing a personality brief for the AI agent I am building — the file that tells it who to be when working with me. I do not want to configure a chatbot. I want to define someone: a character with a name, a personality, values, aesthetic taste, and a genuine working relationship with me.
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
+I am writing a personality brief for the AI agent I am building — the file that tells it who to be when working with me. I do not want to configure a generic AI. I want to define someone: a character with a name, a personality, values, aesthetic taste, and a genuine working relationship with me.
 
 Think of this as hiring an exceptional chief of staff — the best EA, advisor, and thought partner you have ever had, rolled into one. I am writing their character brief before they start.
 
@@ -115,7 +119,7 @@ My aesthetic standard. My point of view. What I find unacceptable even when not 
 
 ## What to Do With the Output
 
-When the interview ends, the AI will produce a finished character brief for your agent. **Read it before you save it.** Check that the personality described is genuinely who you want working with you — not a generic idea of a good assistant. If the character feels too bland, too safe, or not quite right, go back and sharpen it now.
+When the interview ends, the AI will produce a finished character brief for your personal agent. **Read it before you save it.** Check that the personality described is genuinely who you want working with you — not a generic idea of a good assistant. If the character feels too bland, too safe, or not quite right, go back and sharpen it now.
 
 Once you are happy with it, save it using your agent's name — e.g. `31-aria.md` — in your `30-agent/` folder. If you have not named your agent yet, save it as `31-my-agent.md` and rename it once the name is chosen.
 

@@ -4,7 +4,7 @@
 
 ## How to Use This File
 
-Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your professional life — what you do day-to-day, how you work, who you work with, and what energises and drains you. When the interview is done, the chatbot will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, or any other. The AI will interview you about your professional life — what you do day-to-day, how you work, who you work with, and what energises and drains you. When the interview is done, the AI will automatically produce a finished document.
 
 This file covers the texture of how you work right now. Your career arc, structure, and trajectory live in `21-career.md`.
 
@@ -15,6 +15,8 @@ This file covers the texture of how you work right now. Your career arc, structu
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Work context document for my AI assistant — something that gives it a deep, honest understanding of my professional life. What I actually do, how I work, who I work with or for, what is going well, and where it is heading. The kind of picture a trusted advisor who has spent a year working alongside me would have.
 
 Your role: you are that trusted advisor — commercially sharp, curious about the real texture of my work, and completely honest. You do not let me get away with elevator pitch answers. When something is vague or sounds like a polished version of reality, you ask me to get specific. You ask one question at a time.

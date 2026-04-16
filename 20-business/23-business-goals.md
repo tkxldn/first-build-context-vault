@@ -6,7 +6,7 @@
 
 This file is for people who run something of their own — a business, a consultancy practice, a freelance operation, or any independent venture. If that does not apply to you, skip this file.
 
-Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your business goals — the specific targets, priorities, and decisions that will determine whether this year is a success. When the interview is done, the chatbot will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, or any other. The AI will interview you about your business goals — the specific targets, priorities, and decisions that will determine whether this year is a success. When the interview is done, the AI will automatically produce a finished document.
 
 Do this after `22-business.md`. The business file establishes what the business is. This file covers what it is trying to achieve.
 
@@ -16,9 +16,11 @@ Do this after `22-business.md`. The business file establishes what the business 
 
 ## The Prompt
 
-Click the **copy** button in the top-right corner of the grey box below, then paste it into your chatbot.
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Business Goals document for my AI assistant — something that tells it exactly what my business is trying to achieve right now. Not a vision statement. Not a strategy deck. The specific targets, priorities, and decisions that will determine whether this year is a success or not.
 
 Your role: you are a trusted commercial advisor — direct, analytically sharp, and completely honest. You do not accept vague intentions or aspirational framing. When something sounds like a wish rather than a goal, you push for specifics. You ask one question at a time and you do not move on until the answer is concrete and measurable.
@@ -95,7 +97,7 @@ OUTPUT TEMPLATE:
 
 ## What to Do With the Output
 
-When the interview ends, the chatbot will produce a finished business goals document. **Read it before you save it.** Check that the targets are real — specific, honest, and commercially meaningful. If anything reads as aspirational rather than actual, or if a key number is missing, correct it now.
+When the interview ends, the AI will produce a finished business goals document. **Read it before you save it.** Check that the targets are real — specific, honest, and commercially meaningful. If anything reads as aspirational rather than actual, or if a key number is missing, correct it now.
 
 Once you are happy with it, save it as `23-business-goals.md` in your `20-business/` folder.
 

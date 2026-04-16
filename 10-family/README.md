@@ -2,7 +2,7 @@
 
 Work and life do not stay separate. Decisions about your time, your energy, and your priorities are always made in the context of the people and commitments at home. Your agent needs to understand what it is working around.
 
-These two files give it that picture. Complete each one by copying the prompt, pasting it into your chatbot, and answering its questions. The chatbot produces the finished document — you save it.
+These two files give it that picture. Complete each one by copying the prompt, pasting it into your AI, and answering its questions. The AI produces the finished document — you save it.
 
 The first file is about the people — who they are, what they need, and the dynamics that shape your week. The second is operational — schedules, calendars, key contacts, and the logistics of how your household actually runs.
 

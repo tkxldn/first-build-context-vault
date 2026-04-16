@@ -15,6 +15,8 @@ This file is not about pipeline management or BD processes. It is context for an
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Professional Relationships context document for my AI assistant — something that gives it a genuine understanding of how I build and maintain professional relationships. Not a process document, but a picture of how I actually operate in my professional world. Who my network is, how I stay connected, how trust develops with me, and what my professional relationships mean to me.
 
 Your role: you are a trusted peer who has worked alongside me for years and understands how I operate. You are curious about the real picture — not the ideal version, the actual one. You ask one question at a time. You push for specifics: names, patterns, examples.
@@ -24,6 +26,7 @@ Begin the interview now.
 AREA 1 — MY NETWORK AND PROFESSIONAL WORLD
 - How would I describe my professional network — its size, shape, and the communities or sectors it spans?
 - Who are the people in my professional world who matter most to me right now — not necessarily the most senior or prominent, but the ones I value most?
+- Beyond immediate colleagues and clients, who are the 5–10 people — mentors, advisors, long-term peers, board members — who genuinely move the needle on my thinking, decisions, or opportunities? Who makes up my inner circle?
 - Where am I most active professionally — events, communities, platforms, informal networks?
 - What does my professional reputation look like — what do people say about me in rooms I am not in?
 
@@ -61,6 +64,9 @@ OUTPUT TEMPLATE:
 
 ## My Network
 [What my professional world looks like — its shape, the sectors and communities it spans, where I am most active. My professional reputation — what I am known for.]
+
+## My Inner Circle
+[The 5–10 people — mentors, advisors, long-term peers, board members — who genuinely influence my thinking and decisions. Not a contact list: who they are, what they mean to me, and how that relationship works.]
 
 ## How I Build Relationships
 [How trust develops with me. What makes me want to invest in someone. What puts me off. My natural style in professional social situations.]

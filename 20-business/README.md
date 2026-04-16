@@ -2,7 +2,7 @@
 
 Your professional world in full — career arc, business (if you run one), how you work day-to-day, and how you build the relationships that matter.
 
-These files work for any professional situation: corporate, entrepreneurial, fractional, advisory, portfolio, hybrid, or in transition. Complete each one by copying the prompt, pasting it into your chatbot, and answering its questions.
+These files work for any professional situation: corporate, entrepreneurial, fractional, advisory, portfolio, hybrid, or in transition. Complete each one by copying the prompt, pasting it into your AI, and answering its questions.
 
 | File | What it captures | Time |
 |---|---|---|

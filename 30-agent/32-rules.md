@@ -6,6 +6,8 @@
 
 Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, DeepSeek, Kimi, or any other. The AI will interview you to define the operating rules for your personal agent — what it can do independently, what it must always check with you first, how it communicates, and what is never its call regardless of the circumstances. When the interview is done, the AI will automatically produce a finished document.
 
+Note: in this file, "the AI" refers to the tool you are using for the interview. "Your personal agent" refers to the one you are building.
+
 **Do this after completing `31-my-agent.md`.** Rules without character are hollow. You need to know who your agent is before you can define how it should operate.
 
 ---
@@ -15,6 +17,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building an operating rules document for my AI agent. This file defines how my agent behaves — not who it is (that is in the soul file), but how it operates day to day. What it can do on its own initiative, what it must always check with me first, how it communicates, and what is absolutely never its call to make.
 
 Think of this as the standing brief you give a new chief of staff on their first day — the non-negotiables that apply regardless of context, urgency, or what I might say in the moment.

@@ -13,6 +13,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Working With Me document for my AI assistant — something that tells any AI not just who I am, but how to work with me effectively. My rhythms, my patterns, what I need from support, and the specific things that make the difference between someone who knows about me and someone who genuinely knows me.
 
 Think of this as the briefing an exceptional new EA or chief of staff would piece together in their first two weeks working closely with me — except I am giving it to them on day one.

@@ -2,9 +2,9 @@
 
 Start here. These are the most important files in the vault.
 
-A chatbot that understands how you think, what you value, how you write, and what you are working toward will produce fundamentally different output from one that does not. These five files establish that foundation. Every other folder builds on what is captured here.
+A AI that understands how you think, what you value, how you write, and what you are working toward will produce fundamentally different output from one that does not. These five files establish that foundation. Every other folder builds on what is captured here.
 
-To complete each file: copy the prompt, paste it into your chatbot (Claude, ChatGPT, Gemini, or any other), and answer its questions. The chatbot produces a finished document at the end. Save it.
+To complete each file: copy the prompt, paste it into your AI (Claude, ChatGPT, Gemini, or any other), and answer its questions. The AI produces a finished document at the end. Save it.
 
 Do them in order. Each takes 20–45 minutes. Do not rush — the quality of your answers determines the quality of every output your agent produces from here on.
 

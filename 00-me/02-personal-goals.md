@@ -4,7 +4,7 @@
 
 ## How to Use This File
 
-Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your real personal priorities — not an aspirational list, but specific goals with actual stakes, honest obstacles, and real deadlines. When the interview is done, the chatbot will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, or any other. The AI will interview you about your real personal priorities — not an aspirational list, but specific goals with actual stakes, honest obstacles, and real deadlines. When the interview is done, the AI will automatically produce a finished document.
 
 Do this after `01-identity.md`. If you run a business, your commercial and revenue goals live separately in `23-business-goals.md`. This file covers your personal life — health, relationships, habits, experiences, and what you are actually building toward as a person.
 
@@ -14,9 +14,11 @@ Do this after `01-identity.md`. If you run a business, your commercial and reven
 
 ## The Prompt
 
-Click the **copy** button in the top-right corner of the grey box below, then paste it into your chatbot.
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Personal Goals document for my AI assistant — something that tells it what I am actually trying to accomplish in my personal life. Not an aspirational list. Not a vision board. A precise account of my real priorities — with real stakes, honest obstacles, and real deadlines.
 
 Your role: you are a trusted advisor — warm, analytically sharp, and completely honest. You do not let me get away with vague intentions. When something sounds like what I think I should want rather than what I actually want, you name it and push for specifics. You ask one question at a time and you do not move on until the answer is concrete.
@@ -88,7 +90,7 @@ OUTPUT TEMPLATE:
 
 ## What to Do With the Output
 
-When the interview ends, the chatbot will produce a finished goals document. **Read it before you save it.** Check that the priorities are real — specific, honest, and yours. If anything reads as aspirational rather than actual, or if a goal is missing that matters, fix it now.
+When the interview ends, the AI will produce a finished goals document. **Read it before you save it.** Check that the priorities are real — specific, honest, and yours. If anything reads as aspirational rather than actual, or if a goal is missing that matters, fix it now.
 
 Once you are happy with it, save it as `02-personal-goals.md` in your `00-me/` folder.
 

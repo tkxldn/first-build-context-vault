@@ -15,6 +15,8 @@ Answer with as much practical specificity as you are comfortable sharing. The mo
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Family context document for my AI assistant — something that gives it a genuine picture of my household and the people in it. Specific enough that anyone supporting me can understand the real logistics of my life without having to ask from scratch every time.
 
 Think of this as the briefing I would give an exceptional new EA on their first morning so they could start being useful immediately — not a personal profile, but the information they need to help me navigate my week.

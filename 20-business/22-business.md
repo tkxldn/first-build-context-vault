@@ -8,7 +8,7 @@ This file is for people who run something of their own — a business, a consult
 
 If that does not apply to you, skip this file entirely.
 
-Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your business — what it is, how it works, what is live right now, and where it is going. When the interview is done, the chatbot will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, or any other. The AI will interview you about your business — what it is, how it works, what is live right now, and where it is going. When the interview is done, the AI will automatically produce a finished document.
 
 Do this after `21-career.md`. The career file establishes where you have come from. This file covers the business you have built or are building.
 
@@ -16,9 +16,11 @@ Do this after `21-career.md`. The career file establishes where you have come fr
 
 ## The Prompt
 
-Click the **copy** button in the top-right corner of the grey box below, then paste it into your chatbot.
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Business context document for my AI assistant — something that gives it a deep, honest understanding of the business I run. Not a pitch deck. Not a website bio. The real picture: what the business actually is, how it works day to day, what is going well, what is not, and where I am taking it.
 
 Your role: you are a trusted advisor and strategic partner who has just agreed to spend the next year working closely with me on my business. You are commercially sharp, direct, and genuinely curious. You do not accept vague or polished answers. You ask one question at a time. When something sounds like an elevator pitch rather than reality, you push for specifics.
@@ -26,6 +28,8 @@ Your role: you are a trusted advisor and strategic partner who has just agreed t
 Begin the interview now.
 
 AREA 1 — WHAT THE BUSINESS IS
+Note: this area is about the current entity — what it is, how it works, what is live right now. Career history and professional arc belong in `21-career.md`; do not repeat them here.
+
 - What does my business do — in one honest sentence, not the version I use for networking?
 - What problem do I solve, and for whom? Be specific about who the client actually is.
 - How long have I been running this, and what stage is it at right now?
@@ -95,7 +99,7 @@ OUTPUT TEMPLATE:
 
 ## What to Do With the Output
 
-When the interview ends, the chatbot will produce a finished business document. **Read it before you save it.** Pay particular attention to the "What Is Not Working" and "Honest Layer" sections — these are the ones most likely to come out softened. If they read too polished, go back and sharpen them. An agent briefed on a sanitised version of your business will give you sanitised advice.
+When the interview ends, the AI will produce a finished business document. **Read it before you save it.** Pay particular attention to the "What Is Not Working" and "Honest Layer" sections — these are the ones most likely to come out softened. If they read too polished, go back and sharpen them. An agent briefed on a sanitised version of your business will give you sanitised advice.
 
 Once you are happy with it, save it as `22-business.md` in your `20-business/` folder.
 

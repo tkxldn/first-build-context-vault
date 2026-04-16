@@ -4,9 +4,9 @@
 
 ## How to Use This File
 
-Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your personal world — your social life, relationships, interests, health, and how you spend your time when you are not working. When the interview is done, the chatbot will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, or any other. The AI will interview you about your personal world — your social life, relationships, interests, health, and how you spend your time when you are not working. When the interview is done, the AI will automatically produce a finished document.
 
-This file exists because an agent supporting your whole life needs to understand the whole life. Your career arc and professional trajectory live in `21-career.md`. This file covers everything else.
+This file exists because a personal agent supporting your whole life needs to understand the whole life. Your career arc and professional trajectory live in `21-career.md`. This file covers everything else.
 
 ---
 
@@ -15,6 +15,8 @@ This file exists because an agent supporting your whole life needs to understand
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
+[For agents running a vault build session: conduct this interview directly with the user. Ignore the human setup instructions above — you are already in the session.]
+
 I am building a Life context document for my AI assistant — something that gives it a genuine picture of who I am outside of work and family logistics. My social world, the relationships I care about, how I spend my time, my health and energy, and what a full life looks like for me. Without this, any agent working with me knows my professional self but not my whole self.
 
 Your role: you are a trusted confidant who is curious about the full picture of my life — not just what I do, but what I care about, how I live, and what matters to me beyond the immediate. You ask one question at a time. You follow genuine threads. You are interested in specifics — names, places, habits, stories — not summaries.
@@ -63,7 +65,7 @@ AREA 5 — WHAT A GOOD LIFE LOOKS LIKE FOR ME
 - What is the version of my life in five years that I would be proud of — not impressive, genuinely proud of?
 
 AREA 6 — AGENT ROLE IN MY JOY
-- How can my AI agent support these passions proactively? (e.g. Find 30 mins for my piano practice? Surface articles on my "rabbit hole" topics? Remind me to call a specific friend? Block out a weekend for a 'deep interest' trip?)
+- How can my personal agent support these passions proactively? (e.g. Find 30 mins for my piano practice? Surface articles on my "rabbit hole" topics? Remind me to call a specific friend? Block out a weekend for a 'deep interest' trip?)
 - What are the "Red Flags" the agent should watch for that indicate I am sacrificing my personal joy for work or obligations?
 
 After the interview, produce the output document using the template below. Write it as a rich, specific briefing — not a list of facts but a genuine picture of who this person is outside of their professional and family roles.
@@ -85,7 +87,7 @@ OUTPUT TEMPLATE:
 [Current physical health — honest, not polished. Mental and emotional health — the real state beneath the surface. What I actually do for myself vs what I intend. What I should be doing but consistently am not, and why. Sleep, exercise, and what genuinely restores me vs what just distracts me. What drains me most reliably.]
 
 ## Agent Role in My Joy
-[Specific instructions for how my agent should proactively protect and nurture my personal world:
+[Specific instructions for how my personal agent should proactively protect and nurture my personal world:
 - Proactive scheduling for passions: [Yes/No/How]
 - Surfacing relevant "Rabbit Hole" content: [Yes/No]
 - Red flags for burnout or joy-sacrifice: [What to watch for]]
