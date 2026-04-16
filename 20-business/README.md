@@ -1,12 +1,12 @@
 # 20-business/ — Your Work
 
-Your professional world in full — not a CV or a bio, but the honest texture of how you actually work. What you do, who you do it with or for, what energises and drains you, and how you build and maintain the relationships that matter.
+Not a CV. Not a bio. The honest, full picture of your professional world — what you actually do, how you actually work, who you work with, what energises you, and what costs you.
 
-An agent reading these two files should feel like a trusted advisor who has worked alongside you for a year — someone who understands the real complexity of your professional life, not just the headline version.
+An AI helping with client work, strategic decisions, or professional relationships needs to understand your working world the way a trusted advisor would after a year alongside you. These two files build that understanding.
 
-| File | What it builds | Time |
+| File | What it captures | Time |
 |---|---|---|
-| [21-work.md](21-work.md) | Your professional reality — what you do, how you work, clients and commitments, what energises and drains you, where you are heading | 30–45 min |
-| [22-relationships.md](22-relationships.md) | How you build and maintain professional relationships — your network, how trust develops with you, how you stay connected | 25–35 min |
+| [21-work.md](21-work.md) | Your professional reality — what you do and the problem you solve, how you structure your time, who you work with and what is live right now, what energises and drains you, and where you are taking your career | 30–45 min |
+| [22-relationships.md](22-relationships.md) | How you build and maintain professional relationships — your network, how trust develops with you, how you stay connected, and what tends to fall away when you get busy | 25–35 min |
 
-Do `21-work.md` first — the relationships file builds on the professional context established there.
+Do `21-work.md` first. The relationships file builds naturally on the professional context it establishes.

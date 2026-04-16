@@ -1,12 +1,12 @@
 # 10-family/ — Your Household
 
-An AI chief of staff cannot help you manage the collision between work and life unless it understands the life. These two files provide that context.
+Work and life do not stay separate. Decisions about your time, your energy, and your priorities are always made in the context of the people and commitments at home. An AI helping you manage all of that needs to understand what it is managing around.
 
-The first covers the people — who they are, what they need, the relationships and dynamics that shape your week. The second covers the operations — schedules, calendars, contacts, and the practical details that keep your household running. Together they give any agent enough to be genuinely useful in protecting what matters most at home.
+These two files give it that picture. The first is about the people — who they are, what they need, and the dynamics that shape your week. The second is operational — schedules, calendars, contacts, and the logistics of how your household actually runs.
 
-| File | What it builds | Time |
+| File | What it captures | Time |
 |---|---|---|
-| [11-family.md](11-family.md) | Who the people are — names, birthdays, relationships, dynamics, the household standard | 25–35 min |
-| [12-household-ops.md](12-household-ops.md) | Schedules, calendars, key contacts, recurring commitments, what falls through the cracks | 20–25 min |
+| [11-family.md](11-family.md) | The people in your household — names, birthdays, relationships, what matters to them, and the standard you hold for home life | 25–35 min |
+| [12-household-ops.md](12-household-ops.md) | How your household runs — calendars, key contacts, weekly schedules, recurring commitments, and the things that tend to fall through the cracks | 20–25 min |
 
-Do `11-family.md` first — the operations file makes more sense once the people are established.
+Do `11-family.md` first. The operational file is easier to complete once the people are established.
