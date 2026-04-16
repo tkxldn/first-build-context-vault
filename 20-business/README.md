@@ -2,7 +2,9 @@
 
 Not a CV. Not a bio. The honest, full picture of your professional world — what you actually do, how you actually work, who you work with, what energises you, and what costs you.
 
-An AI helping with client work, strategic decisions, or professional relationships needs to understand your working world the way a trusted advisor would after a year alongside you. These two files build that understanding.
+Your agent helping with client work, strategic decisions, or professional relationships needs to understand your working world the way a trusted advisor would after a year alongside you. These two files build that understanding.
+
+To complete each one: copy the prompt, paste it into your chatbot (Claude, ChatGPT, Gemini, or any other), and answer its questions. The chatbot produces the finished document — you save it.
 
 | File | What it captures | Time |
 |---|---|---|
