@@ -46,7 +46,7 @@ The files are designed to build on each other. Start at the top and work down.
 | # | File | What it captures |
 |---|---|---|
 | 1 | [00-me/01-identity.md](00-me/01-identity.md) | Who you are — values, how you think, how you decide |
-| 2 | [00-me/02-goals.md](00-me/02-goals.md) | What you are actually working toward right now |
+| 2 | [00-me/02-personal-goals.md](00-me/02-personal-goals.md) | What you are actually working toward right now — personal life only |
 | 3 | [00-me/03-life.md](00-me/03-life.md) | Your life outside work — social world, health, interests, what a good life looks like |
 | 4 | [00-me/04-working-with-me.md](00-me/04-working-with-me.md) | How you work best and what good support looks like |
 | 5 | [00-me/05-voice.md](00-me/05-voice.md) | How you write and speak |
@@ -54,12 +54,13 @@ The files are designed to build on each other. Start at the top and work down.
 | 7 | [10-family/12-household-ops.md](10-family/12-household-ops.md) | How your household runs day to day |
 | 8 | [20-business/21-career.md](20-business/21-career.md) | Your career story, current structure, and where you are building toward |
 | 9 | [20-business/22-business.md](20-business/22-business.md) | **Optional** — only if you run a business or practice of your own |
-| 10 | [20-business/23-how-i-work.md](20-business/23-how-i-work.md) | The day-to-day texture of how you work |
-| 11 | [20-business/24-relationships.md](20-business/24-relationships.md) | How you build and maintain professional relationships |
-| 12 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | The character of the agent you are building |
-| 13 | [30-agent/32-rules.md](30-agent/32-rules.md) | How your agent operates — what it can and cannot do |
+| 10 | [20-business/23-business-goals.md](20-business/23-business-goals.md) | **Optional** — commercial targets, revenue goals, and anti-goals for your business |
+| 11 | [20-business/24-how-i-work.md](20-business/24-how-i-work.md) | The day-to-day texture of how you work |
+| 12 | [20-business/25-relationships.md](20-business/25-relationships.md) | How you build and maintain professional relationships |
+| 13 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | The character of the agent you are building |
+| 14 | [30-agent/32-rules.md](30-agent/32-rules.md) | How your agent operates — what it can and cannot do |
 
-Complete files 1–11 before starting 12–13. The agent files require you to have thought through everything else first.
+Complete files 1–12 before starting 13–14. The agent files require you to have thought through everything else first.
 
 ---
 

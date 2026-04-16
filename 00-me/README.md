@@ -11,7 +11,7 @@ Do them in order. Each takes 20–45 minutes. Do not rush — the quality of you
 | File | What it captures | Time |
 |---|---|---|
 | [01-identity.md](01-identity.md) | Your values, how you think, how you make decisions — written as an autobiographical introduction your agent reads before working with you | 35–45 min |
-| [02-goals.md](02-goals.md) | What you are actually trying to accomplish right now — not an aspirational list, but real priorities with real stakes and honest obstacles | 25–35 min |
+| [02-personal-goals.md](02-personal-goals.md) | What you are actually trying to accomplish right now in your personal life — real priorities with real stakes and honest obstacles | 25–35 min |
 | [03-life.md](03-life.md) | Your life outside work — social world, relationships, interests, health and energy, and what a genuinely good life looks like for you | 25–35 min |
 | [04-working-with-me.md](04-working-with-me.md) | How you work best — your energy patterns, what helps you focus, what good support looks like, and the specific things that make the difference between a useful agent and a frustrating one | 25–35 min |
 | [05-voice.md](05-voice.md) | How you write and speak — the specific patterns, words, and rhythms that make your communication yours. This is the file that fixes "it doesn't sound like me." | 30–45 min |
