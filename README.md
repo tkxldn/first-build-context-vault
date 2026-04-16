@@ -57,10 +57,10 @@ The files are designed to build on each other. Start at the top and work down.
 | 10 | [20-business/23-business-goals.md](20-business/23-business-goals.md) | **Optional** — commercial targets, revenue goals, and anti-goals for your business |
 | 11 | [20-business/24-how-i-work.md](20-business/24-how-i-work.md) | The day-to-day texture of how you work |
 | 12 | [20-business/25-relationships.md](20-business/25-relationships.md) | How you build and maintain professional relationships |
-| 13 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | The character of the agent you are building |
-| 14 | [30-agent/32-rules.md](30-agent/32-rules.md) | How your agent operates — what it can and cannot do |
+| 13 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | **Optional** — only if you are building or configuring your own personal agent |
+| 14 | [30-agent/32-rules.md](30-agent/32-rules.md) | **Optional** — only if you are building or configuring your own personal agent |
 
-Complete files 1–12 before starting 13–14. The agent files require you to have thought through everything else first.
+Complete files 1–12 before starting 13–14. If you are not building a personal agent, the vault is complete at file 12.
 
 ---
 
@@ -76,7 +76,7 @@ Two files covering the people in your household and how it runs. Your agent need
 
 ### [20-business/](20-business/) — Your Work
 
-Four files covering your professional world — career arc and story, your business if you run one (optional), how you work day-to-day, and how you build relationships.
+Five files covering your professional world — career arc and story, your business if you run one, how you work day-to-day, and how you build relationships. Two of the five are optional: only complete them if you run a business or practice of your own.
 
 ### [30-agent/](30-agent/) — Optional: If You Are Building a Personal Agent
 

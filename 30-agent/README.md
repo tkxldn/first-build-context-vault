@@ -2,7 +2,7 @@
 
 These files are not part of the core vault. They are here for those who are planning to build or configure a personal AI agent — a dedicated assistant that reads your context vault before every conversation and operates by rules you have defined.
 
-If that is not your current focus, you do not need these yet. The first nine files are complete and useful on their own.
+If that is not your current focus, you do not need these yet. Files 1–12 are complete and useful on their own.
 
 If you are building an agent, this is where your vault becomes its foundation. These two files define who that agent is and how it operates. Most people find they cannot answer these questions well until they have completed the other folders first — you need to know yourself clearly before you can define how you want to be supported.
 
