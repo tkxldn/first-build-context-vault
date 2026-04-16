@@ -1,4 +1,4 @@
-# working-with-me.md — How to Work With Me
+# How to Work With Me
 
 ---
 
@@ -9,6 +9,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Working With Me document for my AI assistant — something that tells any AI not just who I am, but how to work with me effectively. My rhythms, my patterns, what I need from support, and the specific things that make the difference between someone who knows about me and someone who genuinely knows me.

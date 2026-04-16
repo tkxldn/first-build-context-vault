@@ -1,4 +1,4 @@
-# voice.md — How I Communicate
+# How I Communicate
 
 ---
 
@@ -11,6 +11,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a voice profile for my AI assistant. This is one of the most important files I will create — it directly determines whether AI outputs sound like me or like a generic assistant. Any AI reading this file should be able to draft an email, message, or piece of writing that I could send without editing the register, the tone, or the word choices.

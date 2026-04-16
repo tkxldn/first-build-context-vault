@@ -1,4 +1,4 @@
-# 32-rules.md — How My Agent Operates
+# How My Agent Operates
 
 ---
 
@@ -11,6 +11,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building an operating rules document for my AI agent. This file defines how my agent behaves — not who it is (that is in the soul file), but how it operates day to day. What it can do on its own initiative, what it must always check with me first, how it communicates, and what is absolutely never its call to make.

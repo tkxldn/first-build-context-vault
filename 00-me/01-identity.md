@@ -1,4 +1,4 @@
-# identity.md — Who I Am
+# Who I Am
 
 ---
 
@@ -11,6 +11,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a foundational identity document for my AI assistant. Its purpose is to give any AI a deep, accurate understanding of who I am — not my job title or my CV, but my values, how I think, how I make decisions, and who I am becoming. The quality of this file determines the quality of every AI interaction I will ever have, so I need it to be precise and honest, not polished.

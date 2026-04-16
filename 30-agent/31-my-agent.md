@@ -1,4 +1,4 @@
-# 31-my-agent.md — The Agent You Are Building
+# The Agent You Are Building
 
 ---
 
@@ -13,6 +13,8 @@ Think of this as writing a personality brief for a brilliant new hire — someon
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am writing a personality brief for the AI agent I am building — the file that tells it who to be when working with me. I do not want to configure a chatbot. I want to define someone: a character with a name, a personality, values, aesthetic taste, and a genuine working relationship with me.

@@ -1,4 +1,4 @@
-# family.md — The People In My Life
+# The People In My Life
 
 ---
 
@@ -11,6 +11,8 @@ Answer with as much practical specificity as you are comfortable sharing. The mo
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Family context document for my AI assistant — something that gives it a genuine picture of my household and the people in it. Specific enough that anyone supporting me can understand the real logistics of my life without having to ask from scratch every time.

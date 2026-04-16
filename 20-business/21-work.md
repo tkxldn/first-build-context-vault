@@ -1,4 +1,4 @@
-# work.md — My Professional World
+# My Professional World
 
 ---
 
@@ -9,6 +9,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Work context document for my AI assistant — something that gives it a deep, honest understanding of my professional life. What I actually do, how I work, who I work with or for, what is going well, and where it is heading. The kind of picture a trusted advisor who has spent a year working alongside me would have.

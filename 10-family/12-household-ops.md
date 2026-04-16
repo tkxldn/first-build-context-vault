@@ -1,4 +1,4 @@
-# household-ops.md — How My Household Runs
+# How My Household Runs
 
 ---
 
@@ -9,6 +9,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Household Operations document for my AI assistant — a practical, factual orientation to how my household runs. Think of it as the document a new EA would need on their first morning to start being useful immediately. The specifics here — times, contacts, arrangements — are a starting point. They will be updated as things change and as the EA learns more from working with me directly.

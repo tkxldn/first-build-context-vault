@@ -1,4 +1,4 @@
-# relationships.md — How I Build and Maintain Professional Relationships
+# How I Build and Maintain Professional Relationships
 
 ---
 
@@ -11,6 +11,8 @@ This file is not about pipeline management or BD processes. It is context for an
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Professional Relationships context document for my AI assistant — something that gives it a genuine understanding of how I build and maintain professional relationships. Not a process document, but a picture of how I actually operate in my professional world. Who my network is, how I stay connected, how trust develops with me, and what my professional relationships mean to me.

@@ -1,4 +1,4 @@
-# strategic-memory.md — Durable Decisions and Standing Truths
+# Durable Decisions and Standing Truths
 
 ---
 
@@ -44,21 +44,18 @@ Keep entries short. An agent needs to be able to read this file quickly and act 
 
 **Format:**
 
-```
-**[YYYY-MM-DD] — [Short descriptive title]**
-What was decided or learned. Why it matters. What it means for how the agent should operate going forward. Specific enough that a new agent reading this in six months understands exactly what is settled and why.
-```
+> **[YYYY-MM-DD] — [Short descriptive title]**
+> What was decided or learned. Why it matters. What it means for how the agent should operate going forward. Specific enough that a new agent reading this in six months understands exactly what is settled and why.
 
 **Good entry:** specific, actionable, explains the why.
 **Bad entry:** vague, no context, no standing instruction.
 
 Example of a good entry:
-```
-**2026-04-20 — Long-form proposals are off the table**
-After sending two proposals over four pages, both were not read in full by the client. 
-Agreed: all proposals are a maximum of two pages. Credentials section removed. 
-Agent should never suggest or produce a proposal longer than two pages without explicit instruction.
-```
+
+> **2026-04-20 — Long-form proposals are off the table**
+> After sending two proposals over four pages, both were not read in full by the client.
+> Agreed: all proposals are a maximum of two pages. Credentials section removed.
+> Agent should never suggest or produce a proposal longer than two pages without explicit instruction.
 
 ---
 

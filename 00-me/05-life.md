@@ -1,4 +1,4 @@
-# life.md — My Life Outside Work
+# My Life Outside Work
 
 ---
 
@@ -11,6 +11,8 @@ This file exists because an AI chief of staff supporting your whole life needs t
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Life context document for my AI assistant — something that gives it a genuine picture of who I am outside of work and family logistics. My social world, the relationships I care about, how I spend my time, what my career has been and where it is going, and what a full life looks like for me. Without this, any agent working with me knows my professional self but not my whole self.

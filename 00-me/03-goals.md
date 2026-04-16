@@ -1,4 +1,4 @@
-# goals.md — What I Am Actually Building Toward
+# What I Am Actually Building Toward
 
 ---
 
@@ -11,6 +11,8 @@ Copy everything inside the prompt block below and paste it into any AI of your c
 ---
 
 ## The Prompt
+
+Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
 I am building a Goals document for my AI assistant — something that tells it what I am actually trying to accomplish — not an aspirational list I will never look at again, but a precise account of my real priorities with real stakes and real deadlines. When this file is done, any AI reading it should be able to give me advice that is calibrated to what I am actually trying to build, not a generic idea of success.
