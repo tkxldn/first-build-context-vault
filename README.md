@@ -6,17 +6,7 @@ This vault fixes that.
 
 It is a set of context files, each one built through a guided interview with a chatbot. You answer honestly, the chatbot writes the document, you save it. Once you have these files, any chatbot you work with will immediately understand who you are, how you think, and what you need. The difference in quality is immediate.
 
-The last two files go one step further. Instead of just briefing a chatbot, you will define a personal AI agent — give it a name, a personality, and a set of operating rules. That agent is yours. Every conversation you have with it starts from a complete picture of who you are.
-
----
-
-## A Quick Note on Language
-
-This vault uses two terms that mean different things:
-
-- **Chatbot** — Claude, ChatGPT, Gemini, or any AI tool you already use. You paste prompts into it, it asks you questions, it produces documents. This is what you will use to complete the files in this vault.
-
-- **Your agent** — the personal AI assistant you will define in the final two files. It has a name, a character, and rules for how it works with you. It is built on top of your context vault and reads these files before every conversation.
+The last two files are optional — they are only relevant if you are planning to build or configure a personal AI agent. They are included here because the vault is the natural foundation for that next step.
 
 ---
 
@@ -43,7 +33,7 @@ Every file follows the same pattern:
 6. When the interview ends, the chatbot will automatically produce a finished document
 7. Read it carefully. Correct anything that is not quite right. Then save it with the filename shown at the bottom of the file.
 
-That saved document is your context file. You will share it with your agent in future conversations.
+That saved document is your context file. You will share it with any chatbot at the start of future conversations to give it immediate context on who you are.
 
 **Time per file:** 20–45 minutes. Do them across several sittings — not all at once. The thinking time between files is part of the process.
 
@@ -85,9 +75,9 @@ Two files covering the people in your household and how it runs. Your agent need
 
 Two files covering your professional world — not a CV, but the honest texture of how you actually work and how you build relationships.
 
-### [30-agent/](30-agent/) — The Agent You Are Building
+### [30-agent/](30-agent/) — Optional: If You Are Building an Agent
 
-Two files that define your personal agent — its character and its operating rules. Do these last.
+Two files for those planning to build or configure a personal AI agent. If that is not your current focus, you do not need these yet.
 
 ---
 
@@ -98,8 +88,6 @@ Once you have completed a file, you have a context document saved on your comput
 > "Before we start, here is some context about me. Read it carefully and apply it to everything you produce."
 
 Then paste the file contents and give your instruction.
-
-Once you have completed the `30-agent/` files and set up your personal agent, it will read your context vault automatically before every conversation. You will not need to paste anything manually. That is what makes it different from a regular chatbot.
 
 The more files you share, the better the output. For most tasks, the files from `00-me/` are enough to start. Add the others when the task involves your household, your professional work, or your relationships.
 
