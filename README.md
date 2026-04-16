@@ -52,12 +52,13 @@ The files are designed to build on each other. Start at the top and work down.
 | 5 | [00-me/05-life.md](00-me/05-life.md) | Your life outside work |
 | 6 | [10-family/11-family.md](10-family/11-family.md) | The people in your household |
 | 7 | [10-family/12-household-ops.md](10-family/12-household-ops.md) | How your household runs day to day |
-| 8 | [20-business/21-work.md](20-business/21-work.md) | Your professional world in full |
+| 8 | [20-business/21-work.md](20-business/21-work.md) | How you work day-to-day — what you do, who you work with, what energises and drains you |
 | 9 | [20-business/22-relationships.md](20-business/22-relationships.md) | How you build and maintain professional relationships |
-| 10 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | The character of the agent you are building |
-| 11 | [30-agent/32-rules.md](30-agent/32-rules.md) | How your agent operates — what it can and cannot do |
+| 10 | [20-business/23-career.md](20-business/23-career.md) | Your career arc, current structure, and where you are building toward |
+| 11 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | The character of the agent you are building |
+| 12 | [30-agent/32-rules.md](30-agent/32-rules.md) | How your agent operates — what it can and cannot do |
 
-Complete files 1–9 before starting 10–11. The agent files require you to have thought through everything else first.
+Complete files 1–10 before starting 11–12. The agent files require you to have thought through everything else first.
 
 ---
 
@@ -73,7 +74,7 @@ Two files covering the people in your household and how it runs. Your agent need
 
 ### [20-business/](20-business/) — Your Work
 
-Two files covering your professional world — not a CV, but the honest texture of how you actually work and how you build relationships.
+Three files covering your professional world — how you work day-to-day, how you build relationships, and your career arc and trajectory.
 
 ### [30-agent/](30-agent/) — Optional: If You Are Building an Agent
 
@@ -90,6 +91,10 @@ Once you have completed a file, you have a context document saved on your comput
 Then paste the file contents and give your instruction.
 
 The more files you share, the better the output. For most tasks, the files from `00-me/` are enough to start. Add the others when the task involves your household, your professional work, or your relationships.
+
+Even more useful: combine files when a task crosses domains. Working through a career decision that affects your family? Share both your career and family files. Planning your year? Share your goals, your career, and your work files together. The chatbot will give you answers that reflect the full picture rather than one dimension of it.
+
+**Keep your files current.** Your life changes — a new role, a shift in priorities, a relationship that matters more or less than it did. Come back to the relevant files when something significant changes. Once a year as a minimum, it is worth a fresh pass through the ones you use most.
 
 ---
 

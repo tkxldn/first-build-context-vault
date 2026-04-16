@@ -4,9 +4,9 @@
 
 ## How to Use This File
 
-Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, DeepSeek, Kimi, or any other. The AI will interview you about your personal world — your social life, friendships, relationships, interests, career arc, and how you spend your time when you are not working. When the interview is done, the AI will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your personal world — your social life, relationships, interests, health, and how you spend your time when you are not working. When the interview is done, the chatbot will automatically produce a finished document.
 
-This file exists because an AI chief of staff supporting your whole life needs to understand the whole life. Work is not the centre of gravity for most people — it is one dimension of a full life. This file covers the rest.
+This file exists because an agent supporting your whole life needs to understand the whole life. Your career arc and professional trajectory live in `23-career.md`. This file covers everything else.
 
 ---
 
@@ -15,7 +15,7 @@ This file exists because an AI chief of staff supporting your whole life needs t
 Click the **copy** button in the top-right corner of the grey box below, then paste it into your AI.
 
 ```
-I am building a Life context document for my AI assistant — something that gives it a genuine picture of who I am outside of work and family logistics. My social world, the relationships I care about, how I spend my time, what my career has been and where it is going, and what a full life looks like for me. Without this, any agent working with me knows my professional self but not my whole self.
+I am building a Life context document for my AI assistant — something that gives it a genuine picture of who I am outside of work and family logistics. My social world, the relationships I care about, how I spend my time, my health and energy, and what a full life looks like for me. Without this, any agent working with me knows my professional self but not my whole self.
 
 Your role: you are a trusted confidant who is curious about the full picture of my life — not just what I do, but what I care about, how I live, and what matters to me beyond the immediate. You ask one question at a time. You follow genuine threads. You are interested in specifics — names, places, habits, stories — not summaries.
 
@@ -45,12 +45,15 @@ AREA 3 — INTERESTS, PASSIONS, AESTHETICS
 - What am I a genuine enthusiast about — things I know more about than most people and care about more than is strictly necessary?
 - What did I love doing at an earlier point in my life that I have set aside? Do I miss it?
 
-AREA 4 — CAREER ARC AND PROFESSIONAL IDENTITY
-- Where have I come from professionally? The brief arc — not a CV, but the story of how I got to where I am.
-- What experiences or chapters have most shaped how I think and work today?
-- What am I most proud of professionally — not a title or an achievement, but something that reflects who I am?
-- What do I want my career to have meant — not right now, but when I look back in twenty years?
-- Where am I in my career right now — what phase, what transition, what are the live questions?
+AREA 4 — HEALTH AND ENERGY
+- How is my physical health right now — honestly, not impressively?
+- How is my mental and emotional health? What is the general state of things beneath the surface?
+- What do I do to take care of myself — what actually happens, not what I intend?
+- What should I be doing for my health that I am consistently not doing, and what is underneath that?
+- What is my relationship with sleep — how much do I get, what affects it, how much does it matter to me?
+- What is my relationship with exercise and physical activity? What works for me and what does not?
+- What drains my energy most reliably — the conditions, situations, or types of work that cost me most?
+- What restores me — genuinely restores me, not just distracts me?
 
 AREA 5 — WHAT A GOOD LIFE LOOKS LIKE FOR ME
 - If I am honest about what I want — not what I think I should want — what does a genuinely good life look like?
@@ -78,14 +81,14 @@ OUTPUT TEMPLATE:
 ## Interests and Passions
 [The subjects and fields that genuinely captivate me. My **"Rabbit Holes"** and niche obsessions. My aesthetic sensibility. What I am an enthusiast about. The **"Dream Project"** I would start if I had the time. What I loved earlier that I have set aside.]
 
+## Health and Energy
+[Current physical health — honest, not polished. Mental and emotional health — the real state beneath the surface. What I actually do for myself vs what I intend. What I should be doing but consistently am not, and why. Sleep, exercise, and what genuinely restores me vs what just distracts me. What drains me most reliably.]
+
 ## Agent Role in My Joy
 [Specific instructions for how my agent should proactively protect and nurture my personal world:
 - Proactive scheduling for passions: [Yes/No/How]
 - Surfacing relevant "Rabbit Hole" content: [Yes/No]
 - Red flags for burnout or joy-sacrifice: [What to watch for]]
-
-## Career Arc
-[Where I have come from and how it has shaped me. What I am most proud of. Where I am now in my career — the live questions and transitions. What I want it to have meant.]
 
 ## What a Good Life Looks Like For Me
 [The honest version — not the impressive version. What I want more of and less of. The balance I am working toward. What I am trading away right now that I do not want to trade indefinitely. The version of my life I would be genuinely proud of.]

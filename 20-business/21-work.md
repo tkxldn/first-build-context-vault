@@ -4,7 +4,9 @@
 
 ## How to Use This File
 
-Copy everything inside the prompt block below and paste it into any AI of your choice — Claude, ChatGPT, Gemini, DeepSeek, Kimi, or any other. The AI will interview you about your professional life — what you do, how you work, what your current situation looks like, and where you are headed. This file is intentionally open: it works whether you run your own business, hold a senior role in an organisation, have a portfolio career, or something else entirely. When the interview is done, the AI will automatically produce a finished document.
+Copy everything inside the prompt block below and paste it into any chatbot of your choice — Claude, ChatGPT, Gemini, or any other. The chatbot will interview you about your professional life — what you do day-to-day, how you work, who you work with, and what energises and drains you. When the interview is done, the chatbot will automatically produce a finished document.
+
+This file covers the texture of how you work right now. Your career arc, structure, and trajectory live in `23-career.md`.
 
 ---
 
@@ -47,17 +49,10 @@ AREA 4 — WHAT ENERGISES AND DRAINS ME PROFESSIONALLY
 - What would I stop doing immediately if I could?
 - What kind of work or professional relationship do I want more of?
 
-AREA 5 — THE PROFESSIONAL FUTURE
-- Where do I want my professional life to be in 12 months — in terms of what I am doing, who I am doing it with, and how I am spending my time?
-- What is the constraint currently limiting growth, satisfaction, or the kind of work I want to be doing?
-- What does the ideal version of my professional life look like — the one I am building toward?
-- What am I avoiding or deferring professionally that I know I should not be?
-
-AREA 6 — PROFESSIONAL SOUL & LEGACY
-- What is the "Soul" of my work — the non-negotiable standard I hold myself and others to?
-- What would I want my professional legacy to be five years after I've moved on? What is the one thing I want clients/colleagues to remember about me?
-- What is my current "Strategic Long Game"? What am I building that is not yet visible in my daily tasks?
-- How can my AI agent help me play this long game effectively?
+AREA 5 — THE SOUL OF MY WORK
+- What is the non-negotiable standard I hold myself to — the thing I would not compromise even under pressure?
+- What do I want clients, colleagues, or collaborators to say about working with me — not the impressive version, the true one?
+- What does genuinely good work look like to me? What is the bar?
 
 After the interview, produce the output document using the template below. Be specific about the actual texture of my work — this should read like a briefing from someone who knows my professional world well, not a bio or a CV summary.
 
@@ -84,8 +79,8 @@ OUTPUT TEMPLATE:
 ## What Energises vs Drains Me
 [The work that genuinely excites me. The work I do well but find costly. What I would stop if I could. What I want more of.]
 
-## The Professional Future & Legacy
-[Where I want to be in 12 months. My **"Strategic Long Game"** and the legacy I am building. What is limiting me right now. The non-negotiable **"Soul"** of my work.]
+## The Soul of My Work
+[The non-negotiable standard I hold myself to. What I want to be known for by the people who work with me. What genuinely good work looks like to me.]
 ```
 
 ---
