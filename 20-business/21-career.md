@@ -75,6 +75,7 @@ AREA 4 — WHAT YOUR CAREER MEANS TO YOU
 - What does success look like to you now, and how has that changed over time?
 - What do you want your professional legacy to be — not the CV entry, but what you want to have stood for?
 - Is your career currently aligned with what matters most to you — and if not, what is the gap?
+- What do you bring that most people with a similar career history would not? Not the impressive version — the honest one.
 
 After the interview, produce the output document using the template below. Write it as a genuine career briefing — specific enough that an advisor reading it could give immediately useful guidance, honest enough that it reflects the real picture rather than the polished one.
 
@@ -105,6 +106,9 @@ OUTPUT TEMPLATE:
 
 ## What My Career Means to Me
 [What my career is for beyond income. What success means to me now and how that has evolved. What I want my professional legacy to be. Whether I am currently aligned with what matters most — and if not, where the gap is.]
+
+## What Makes Me Different
+[The honest answer — not the elevator pitch. What I bring that most people with a similar history would not. The distinctive combination of experience, perspective, or approach that is genuinely mine.]
 ```
 
 ---
