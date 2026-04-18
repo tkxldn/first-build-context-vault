@@ -40,7 +40,6 @@ AREA 2 — MY PATTERNS — THE HONEST ACCOUNT
 - What do I need when something has gone wrong — space, conversation, action, or understanding first?
 
 AREA 3 — HOW I LIKE TO BE SUPPORTED
-- What would I most want an agent to do without being asked — the things that, if they happened automatically, would genuinely reduce my cognitive load?
 - What do I find hard to delegate, even when I know I should? What is underneath that?
 - How do I prefer to receive information? Short answer first then detail, or the full picture? A clear recommendation or options? Data or narrative?
 - What makes an output good enough that I will use it without editing? What does that bar actually look like?

@@ -26,10 +26,12 @@ If any question feels too personal to give to an AI, skip it. But lean toward sh
 Begin the interview now.
 
 AREA 1 — MY SOCIAL WORLD
-- Who are the people outside my immediate household who matter most to me right now? Not a full list — the ones I would notice if they were gone.
+Note: this area covers friendships, communities, and your broader social world beyond your immediate household. The people you live with and close family dynamics are covered in `11-family.md`.
+
+- Who are the friends and people outside my household who matter most to me right now? Not a full list — the ones I would notice if they were gone.
 - How do I maintain close friendships? What does that actually look like in practice — how often, in what form?
 - What is my social life like at the moment — and how does that compare to what I would want it to look like?
-- Who do I turn to when something is genuinely difficult — not for advice, but just to be understood?
+- Who outside my household do I turn to when something is genuinely difficult — not for advice, but just to be understood?
 - What does my broader social circle look like? Communities, groups, recurring gatherings — what is my social world made up of?
 
 AREA 2 — HOW I SPEND MY TIME

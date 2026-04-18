@@ -33,10 +33,12 @@ AREA 1 — WHO IS IN MY HOUSEHOLD
 - What does a typical weekday morning in my household look like? Who does what, in what order?
 
 AREA 2 — THE PEOPLE AND RELATIONSHIPS
+Note: this area covers household and close family dynamics. Your friendships and broader social world are covered in `03-life.md`.
+
 - For each person in or close to my household: what do they need from me on a regular basis? What do I need from them?
 - Where do my relationships within the household require the most of my attention or energy?
 - What are the relationship dynamics I navigate regularly — the things that shape how I plan my time and make decisions?
-- Who outside my household is a consistent presence in my week — people whose schedules, needs, or lives I regularly factor into my own?
+- Who outside my household is a regular presence in how my household runs — people whose schedules I practically need to factor into planning?
 
 AREA 3 — FIXED COMMITMENTS AND LOGISTICS
 - What are the fixed weekly commitments I cannot move? For each one: what is it, when is it, and who is responsible for it?

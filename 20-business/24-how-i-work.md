@@ -91,6 +91,6 @@ OUTPUT TEMPLATE:
 
 When the interview ends, the AI will produce a finished document. **Read it before you save it.** Check that the picture of your professional life is accurate and honest — not the polished version. Correct anything that undersells the complexity or oversimplifies what you actually do.
 
-Once you are happy with it, save it as `23-how-i-work.md` in your `20-business/` folder.
+Once you are happy with it, save it as `24-how-i-work.md` in your `20-business/` folder.
 
 Update it whenever your professional situation materially changes — new role, new clients, new direction. Anyone supporting you should keep it current as they learn more about the texture of your work.
