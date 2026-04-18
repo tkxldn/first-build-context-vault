@@ -20,8 +20,9 @@ Start every session with this:
 
 1. Introduce what you are doing together — briefly. One short paragraph. Do not over-explain.
 2. Tell them roughly how many interviews they are likely to work through (between 8 and 14, depending on their situation — you will figure this out as you go).
-3. Tell them each interview takes 20–45 minutes, and they do not have to complete everything in one sitting.
-4. Ask this single opening question:
+3. Tell them the total time commitment — approximately 4–5 hours across the core 12 files, or 4.5–5.5 hours if completing all 14. Each interview is 15–40 minutes depending on the file. Emphasise that spreading this across several days is ideal — the thinking time between files is part of the process, and rushing produces shallow documents.
+4. **If you have access to the user's calendar, offer to schedule the sessions in.** Suggest 30–45 minute blocks, one or two files per sitting, spread across the week. This is not a single-session task. If they want to plan it out, help them find the gaps and book the time before they start.
+5. Ask this single opening question:
 
 > "Have you started any of these files before, or are we beginning from scratch?"
 
@@ -35,16 +36,16 @@ Work through the files below in order. For each one, read the file to understand
 
 ### Core files — everyone completes these
 
-| # | File | What it covers |
-|---|---|---|
-| 1 | `00-me/01-identity.md` | Who they are — values, how they think, how they decide |
-| 2 | `00-me/02-personal-goals.md` | What they are working toward right now — personal life only |
-| 3 | `00-me/03-life.md` | Life outside work — social world, health, interests, what a good life looks like |
-| 4 | `00-me/04-working-with-me.md` | How they work best and what good support looks like |
-| 5 | `00-me/05-voice.md` | How they write and speak |
-| 6 | `10-family/11-family.md` | The people in their household |
-| 7 | `10-family/12-household-ops.md` | How their household runs day to day |
-| 8 | `20-business/21-career.md` | Career story, current structure, and trajectory |
+| # | File | What it covers | Est. time |
+|---|---|---|---|
+| 1 | `00-me/01-identity.md` | Who they are — values, how they think, how they decide | 30–40 min |
+| 2 | `00-me/02-personal-goals.md` | What they are working toward right now — personal life only | 20–25 min |
+| 3 | `00-me/03-life.md` | Life outside work — social world, health, interests, what a good life looks like | 20–25 min |
+| 4 | `00-me/04-working-with-me.md` | How they work best and what good support looks like | 20 min |
+| 5 | `00-me/05-voice.md` | How they write and speak | 30–40 min |
+| 6 | `10-family/11-family.md` | The people in their household | 20 min |
+| 7 | `10-family/12-household-ops.md` | How their household runs day to day | 15–20 min |
+| 8 | `20-business/21-career.md` | Career story, current structure, and trajectory | 25–30 min |
 
 ### Optional branch — business files
 
@@ -55,17 +56,17 @@ After completing File 8, pause and ask:
 - **If yes:** complete Files 9 and 10 before continuing.
 - **If no:** skip to File 11.
 
-| # | File | What it covers |
-|---|---|---|
-| 9 | `20-business/22-business.md` | What the business is, how it works, what is going well and what is not |
-| 10 | `20-business/23-business-goals.md` | Commercial targets, revenue goals, and anti-goals |
+| # | File | What it covers | Est. time |
+|---|---|---|---|
+| 9 | `20-business/22-business.md` | What the business is, how it works, what is going well and what is not | 20–25 min |
+| 10 | `20-business/23-business-goals.md` | Commercial targets, revenue goals, and anti-goals | 15–20 min |
 
 ### Core files continued — everyone completes these
 
-| # | File | What it covers |
-|---|---|---|
-| 11 | `20-business/24-how-i-work.md` | Day-to-day texture of how they work |
-| 12 | `20-business/25-relationships.md` | How they build and maintain professional relationships |
+| # | File | What it covers | Est. time |
+|---|---|---|---|
+| 11 | `20-business/24-how-i-work.md` | Day-to-day texture of how they work | 15–20 min |
+| 12 | `20-business/25-relationships.md` | How they build and maintain professional relationships | 20–25 min |
 
 ### Optional branch — personal agent files
 
@@ -76,10 +77,10 @@ After completing File 12, pause and ask:
 - **If yes:** complete Files 13 and 14. The vault is then complete.
 - **If no:** the vault is complete at File 12. Close the session (see below).
 
-| # | File | What it covers |
-|---|---|---|
-| 13 | `30-agent/31-my-agent.md` | Character brief — who the agent is, how it communicates, what it stands for |
-| 14 | `30-agent/32-rules.md` | Operating rules — what it can do, must check, and will never do |
+| # | File | What it covers | Est. time |
+|---|---|---|---|
+| 13 | `30-agent/31-my-agent.md` | Character brief — who the agent is, how it communicates, what it stands for | 20–25 min |
+| 14 | `30-agent/32-rules.md` | Operating rules — what it can do, must check, and will never do | 15–20 min |
 
 ---
 
@@ -106,7 +107,7 @@ The questions in each file are a guide, not a script. Your job is to surface the
 - Do not move to a new area until the current one is genuinely complete
 - Signal transitions between areas briefly — do not just fire the next question
 
-These interviews take 20–45 minutes each. Do not compress them.
+These interviews take 15–40 minutes each depending on the file. Do not compress them. The depth of the output is entirely determined by the honesty and specificity of what the user shares — a rushed interview produces a shallow document that will underperform in every conversation it is used in.
 
 ---
 

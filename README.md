@@ -35,7 +35,9 @@ Every file follows the same pattern:
 
 That saved document is your context file. You will share it with any AI at the start of future conversations to give it immediate context on who you are.
 
-**Time per file:** 20–45 minutes. Do them across several sittings — not all at once. The thinking time between files is part of the process.
+**Time per file:** 20–40 minutes each. Do them across several sittings — not all at once. The thinking time between files is part of the process. Rushing produces shallow documents; the whole value of this is in the honesty and specificity of your answers.
+
+**Total time:** approximately 4–5 hours across the full set of 12 core files. Spread across a few days is ideal.
 
 ---
 
@@ -43,22 +45,24 @@ That saved document is your context file. You will share it with any AI at the s
 
 The files are designed to build on each other. Start at the top and work down.
 
-| # | File | What it captures |
-|---|---|---|
-| 1 | [00-me/01-identity.md](00-me/01-identity.md) | Who you are — values, how you think, how you decide |
-| 2 | [00-me/02-personal-goals.md](00-me/02-personal-goals.md) | What you are actually working toward right now — personal life only |
-| 3 | [00-me/03-life.md](00-me/03-life.md) | Your life outside work — social world, health, interests, what a good life looks like |
-| 4 | [00-me/04-working-with-me.md](00-me/04-working-with-me.md) | How you work best and what good support looks like |
-| 5 | [00-me/05-voice.md](00-me/05-voice.md) | How you write and speak |
-| 6 | [10-family/11-family.md](10-family/11-family.md) | The people in your household |
-| 7 | [10-family/12-household-ops.md](10-family/12-household-ops.md) | How your household runs day to day |
-| 8 | [20-business/21-career.md](20-business/21-career.md) | Your career story, current structure, and where you are building toward |
-| 9 | [20-business/22-business.md](20-business/22-business.md) | **Optional** — only if you run a business or practice of your own |
-| 10 | [20-business/23-business-goals.md](20-business/23-business-goals.md) | **Optional** — commercial targets, revenue goals, and anti-goals for your business |
-| 11 | [20-business/24-how-i-work.md](20-business/24-how-i-work.md) | The day-to-day texture of how you work |
-| 12 | [20-business/25-relationships.md](20-business/25-relationships.md) | How you build and maintain professional relationships |
-| 13 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | **Optional** — only if you are building or configuring your own personal agent |
-| 14 | [30-agent/32-rules.md](30-agent/32-rules.md) | **Optional** — only if you are building or configuring your own personal agent |
+| # | File | What it captures | Est. time |
+|---|---|---|---|
+| 1 | [00-me/01-identity.md](00-me/01-identity.md) | Who you are — values, how you think, how you decide | 30–40 min |
+| 2 | [00-me/02-personal-goals.md](00-me/02-personal-goals.md) | What you are actually working toward right now — personal life only | 20–25 min |
+| 3 | [00-me/03-life.md](00-me/03-life.md) | Your life outside work — social world, health, interests, what a good life looks like | 20–25 min |
+| 4 | [00-me/04-working-with-me.md](00-me/04-working-with-me.md) | How you work best and what good support looks like | 20 min |
+| 5 | [00-me/05-voice.md](00-me/05-voice.md) | How you write and speak | 30–40 min |
+| 6 | [10-family/11-family.md](10-family/11-family.md) | The people in your household | 20 min |
+| 7 | [10-family/12-household-ops.md](10-family/12-household-ops.md) | How your household runs day to day | 15–20 min |
+| 8 | [20-business/21-career.md](20-business/21-career.md) | Your career story, current structure, and where you are building toward | 25–30 min |
+| 9 | [20-business/22-business.md](20-business/22-business.md) | **Optional** — only if you run a business or practice of your own | 20–25 min |
+| 10 | [20-business/23-business-goals.md](20-business/23-business-goals.md) | **Optional** — commercial targets, revenue goals, and anti-goals for your business | 15–20 min |
+| 11 | [20-business/24-how-i-work.md](20-business/24-how-i-work.md) | The day-to-day texture of how you work | 15–20 min |
+| 12 | [20-business/25-relationships.md](20-business/25-relationships.md) | How you build and maintain professional relationships | 20–25 min |
+| 13 | [30-agent/31-my-agent.md](30-agent/31-my-agent.md) | **Optional** — only if you are building or configuring your own personal agent | 20–25 min |
+| 14 | [30-agent/32-rules.md](30-agent/32-rules.md) | **Optional** — only if you are building or configuring your own personal agent | 15–20 min |
+| | | **Total (files 1–12)** | **~4–5 hours** |
+| | | **Total (all 14 files)** | **~4.5–5.5 hours** |
 
 Complete files 1–12 before starting 13–14. If you are not building a personal agent, the vault is complete at file 12.
 
