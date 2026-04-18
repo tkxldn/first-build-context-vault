@@ -45,30 +45,41 @@ That saved document is your context file. You will share it with any AI at the s
 
 The files are designed to build on each other. Start at the top and work down.
 
+Start here. These five files are the foundation — everything else builds on them.
+
 | # | File | What it captures | Est. time |
 |---|---|---|---|
-| | **You** | | |
 | 1 | [Identity](00-me/01-identity.md) | Who you are — values, how you think, how you decide | 30–40 min |
 | 2 | [Personal goals](00-me/02-personal-goals.md) | What you are actually working toward right now — personal life only | 20–25 min |
 | 3 | [Life](00-me/03-life.md) | Your life outside work — social world, health, interests, what a good life looks like | 20–25 min |
 | 4 | [Working with me](00-me/04-working-with-me.md) | How you work best and what good support looks like | 20 min |
 | 5 | [Voice](00-me/05-voice.md) | How you write and speak | 30–40 min |
-| | **Family** | | |
+
+**Family** — your household and how it runs.
+
+| # | File | What it captures | Est. time |
+|---|---|---|---|
 | 6 | [Family](10-family/11-family.md) | The people in your household | 20 min |
 | 7 | [Household ops](10-family/12-household-ops.md) | How your household runs day to day | 15–20 min |
-| | **Business** | | |
+
+**Business** — your professional world. Files 9 and 10 are optional: only complete them if you run a business or practice of your own.
+
+| # | File | What it captures | Est. time |
+|---|---|---|---|
 | 8 | [Career](20-business/21-career.md) | Your career story, current structure, and where you are building toward | 25–30 min |
 | 9 | [Business](20-business/22-business.md) *(optional)* | Only if you run a business or practice of your own | 20–25 min |
 | 10 | [Business goals](20-business/23-business-goals.md) *(optional)* | Commercial targets, revenue goals, and anti-goals for your business | 15–20 min |
 | 11 | [How I work](20-business/24-how-i-work.md) | The day-to-day texture of how you work | 15–20 min |
 | 12 | [Relationships](20-business/25-relationships.md) | How you build and maintain professional relationships | 20–25 min |
-| | **Agent** *(optional)* | | |
-| 13 | [My agent](30-agent/31-my-agent.md) *(optional)* | Only if you are building or configuring your own personal agent | 20–25 min |
-| 14 | [Rules](30-agent/32-rules.md) *(optional)* | Only if you are building or configuring your own personal agent | 15–20 min |
-| | | **Total (files 1–12)** | **~4–5 hours** |
-| | | **Total (all 14 files)** | **~4.5–5.5 hours** |
 
-Complete files 1–12 before starting 13–14. If you are not building a personal agent, the vault is complete at file 12.
+**Agent** *(optional)* — only if you are planning to build or configure your own personal AI agent. If that is not your current focus, the vault is complete at file 12.
+
+| # | File | What it captures | Est. time |
+|---|---|---|---|
+| 13 | [My agent](30-agent/31-my-agent.md) | Character brief — who the agent is, how it communicates, what it stands for | 20–25 min |
+| 14 | [Rules](30-agent/32-rules.md) | Operating rules — what it can do, must check, and will never do | 15–20 min |
+
+**Total time:** ~4–5 hours for files 1–12 · ~4.5–5.5 hours for all 14. Spread across a few days is ideal.
 
 ---
 
