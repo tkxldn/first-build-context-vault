@@ -21,26 +21,6 @@ You need access to an AI — Claude, ChatGPT, Gemini, or any other. You will pas
 
 ---
 
-## How Each File Works
-
-Every file follows the same pattern:
-
-1. Open the file and read the short introduction at the top
-2. Some files ask you to prepare something before you start — a writing sample, for example. Do that first.
-3. Find the section marked **The Prompt** and click the **copy** button in the top-right corner of the grey box
-4. Open your AI (Claude, ChatGPT, Gemini, or any other) and paste the prompt into a new conversation
-5. Answer the AI's questions — talk to it naturally, as if you were speaking to a trusted advisor
-6. When the interview ends, the AI will automatically produce a finished document
-7. Read it carefully. Correct anything that is not quite right. Then save it with the filename shown at the bottom of the file.
-
-That saved document is your context file. You will share it with any AI at the start of future conversations to give it immediate context on who you are.
-
-**Time per file:** 20–40 minutes each. Do them across several sittings — not all at once. The thinking time between files is part of the process. Rushing produces shallow documents; the whole value of this is in the honesty and specificity of your answers.
-
-**Total time:** approximately 4–5 hours across the full set of 12 core files. Spread across a few days is ideal.
-
----
-
 ## The Four Folders
 
 ### [00-me/](00-me/) — Who You Are
@@ -61,11 +41,33 @@ Two files for those planning to build or configure their own personal agent. If 
 
 ---
 
+## How Each File Works
+
+Every file follows the same pattern:
+
+1. Open the file and read the short introduction at the top
+2. Some files ask you to prepare something before you start — a writing sample, for example. Do that first.
+3. Find the section marked **The Prompt** and click the **copy** button in the top-right corner of the grey box
+4. Open your AI (Claude, ChatGPT, Gemini, or any other) and paste the prompt into a new conversation
+5. Answer the AI's questions — talk to it naturally, as if you were speaking to a trusted advisor
+6. When the interview ends, the AI will automatically produce a finished document
+7. Read it carefully. Correct anything that is not quite right. Then save it with the filename shown at the bottom of the file.
+
+That saved document is your context file. You will share it with any AI at the start of future conversations to give it immediate context on who you are.
+
+**Time per file:** 20–40 minutes each. Do them across several sittings — not all at once. The thinking time between files is part of the process. Rushing produces shallow documents; the whole value of this is in the honesty and specificity of your answers.
+
+**Total time:** approximately 4–5 hours across the full set of 12 core files. Spread across a few days is ideal.
+
+---
+
 ## Do Them in This Order
 
 The files are designed to build on each other. Start at the top and work down. Each folder is a natural sitting — do one, take a break, come back for the next.
 
-**`00-me/` — Who You Are.** Start here. These five files are the foundation — everything else builds on them.
+### [00-me/](00-me/) — Who You Are
+
+Start here. These five files are the foundation — everything else builds on them.
 
 | # | File | What it captures | Est. time |
 |---|---|---|---|
@@ -75,14 +77,18 @@ The files are designed to build on each other. Start at the top and work down. E
 | 4 | [Working with me](00-me/04-working-with-me.md) | How you work best and what good support looks like | 20 min |
 | 5 | [Voice](00-me/05-voice.md) | How you write and speak | 30–40 min |
 
-**`10-family/` — Your Household.** Two files covering the people in your life and how your household runs.
+### [10-family/](10-family/) — Your Household
+
+Two files covering the people in your life and how your household runs.
 
 | # | File | What it captures | Est. time |
 |---|---|---|---|
 | 6 | [Family](10-family/11-family.md) | The people in your household | 20 min |
 | 7 | [Household ops](10-family/12-household-ops.md) | How your household runs day to day | 15–20 min |
 
-**`20-business/` — Your Work.** Your professional world. Files 9 and 10 are optional — only complete them if you run a business or practice of your own.
+### [20-business/](20-business/) — Your Work
+
+Your professional world. Files 9 and 10 are optional — only complete them if you run a business or practice of your own.
 
 | # | File | What it captures | Est. time |
 |---|---|---|---|
@@ -92,7 +98,9 @@ The files are designed to build on each other. Start at the top and work down. E
 | 11 | [How I work](20-business/24-how-i-work.md) | The day-to-day texture of how you work | 15–20 min |
 | 12 | [Relationships](20-business/25-relationships.md) | How you build and maintain professional relationships | 20–25 min |
 
-**`30-agent/` — Your Agent** *(optional).* Only if you are planning to build or configure your own personal AI agent. If that is not your current focus, the vault is complete at file 12.
+### [30-agent/](30-agent/) — Your Agent *(optional)*
+
+Only if you are planning to build or configure your own personal AI agent. If that is not your current focus, the vault is complete at file 12.
 
 | # | File | What it captures | Est. time |
 |---|---|---|---|
