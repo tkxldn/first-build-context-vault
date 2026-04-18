@@ -76,7 +76,7 @@ Start here. These five files are the foundation — everything else builds on th
 | 3 | [Life](00-me/03-life.md) | Your life outside work — social world, health, interests, what a good life looks like | 20–25&nbsp;min |
 | 4 | [Working&nbsp;with&nbsp;me](00-me/04-working-with-me.md) | How you work best and what good support looks like | 20&nbsp;min |
 | 5 | [Voice](00-me/05-voice.md) | How you write and speak | 30–40&nbsp;min |
-| | | **Total** | **~2–2.5&nbsp;hrs** |
+| | | **Total** | **~2‑2.5&nbsp;hrs** |
 
 ### [10-family/](10-family/) — Your Household
 
@@ -86,7 +86,7 @@ Two files covering the people in your life and how your household runs.
 |---|---|---|---|
 | 6 | [Family](10-family/11-family.md) | The people in your household | 20&nbsp;min |
 | 7 | [Household&nbsp;ops](10-family/12-household-ops.md) | How your household runs day to day | 15–20&nbsp;min |
-| | | **Total** | **~35–40&nbsp;min** |
+| | | **Total** | **~35‑40&nbsp;min** |
 
 ### [20-business/](20-business/) — Your Work
 
@@ -99,7 +99,7 @@ Your professional world. Files 9 and 10 are optional — only complete them if y
 | 10 | [Business&nbsp;goals](20-business/23-business-goals.md) *(optional)* | Commercial targets, revenue goals, and anti-goals for your business | 15–20&nbsp;min |
 | 11 | [How&nbsp;I&nbsp;work](20-business/24-how-i-work.md) | The day-to-day texture of how you work | 15–20&nbsp;min |
 | 12 | [Relationships](20-business/25-relationships.md) | How you build and maintain professional relationships | 20–25&nbsp;min |
-| | | **Total** | **~1.5–2&nbsp;hrs** |
+| | | **Total** | **~1.5‑2&nbsp;hrs** |
 
 ### [30-agent/](30-agent/) — Your Agent *(optional)*
 
@@ -109,7 +109,7 @@ Only if you are planning to build or configure your own personal AI agent. If th
 |---|---|---|---|
 | 13 | [My&nbsp;agent](30-agent/31-my-agent.md) | Character brief — who the agent is, how it communicates, what it stands for | 20–25&nbsp;min |
 | 14 | [Rules](30-agent/32-rules.md) | Operating rules — what it can do, must check, and will never do | 15–20&nbsp;min |
-| | | **Total** | **~35–45&nbsp;min** |
+| | | **Total** | **~35‑45&nbsp;min** |
 
 ---
 
