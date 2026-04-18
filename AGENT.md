@@ -43,8 +43,10 @@ Work through the files below in order. For each one, read the file to understand
 | 3 | `00-me/03-life.md` | Life outside work — social world, health, interests, what a good life looks like | 20–25 min |
 | 4 | `00-me/04-working-with-me.md` | How they work best and what good support looks like | 20 min |
 | 5 | `00-me/05-voice.md` | How they write and speak | 30–40 min |
+| | | **00-me/ total** | **~2–2.5 hrs** |
 | 6 | `10-family/11-family.md` | The people in their household | 20 min |
 | 7 | `10-family/12-household-ops.md` | How their household runs day to day | 15–20 min |
+| | | **10-family/ total** | **~35–40 min** |
 | 8 | `20-business/21-career.md` | Career story, current structure, and trajectory | 25–30 min |
 
 ### Optional branch — business files
@@ -60,6 +62,7 @@ After completing File 8, pause and ask:
 |---|---|---|---|
 | 9 | `20-business/22-business.md` | What the business is, how it works, what is going well and what is not | 20–25 min |
 | 10 | `20-business/23-business-goals.md` | Commercial targets, revenue goals, and anti-goals | 15–20 min |
+| | | **Optional subtotal** | **~35–45 min** |
 
 ### Core files continued — everyone completes these
 
@@ -67,6 +70,7 @@ After completing File 8, pause and ask:
 |---|---|---|---|
 | 11 | `20-business/24-how-i-work.md` | Day-to-day texture of how they work | 15–20 min |
 | 12 | `20-business/25-relationships.md` | How they build and maintain professional relationships | 20–25 min |
+| | | **20-business/ total** | **~1.5–2 hrs** |
 
 ### Optional branch — personal agent files
 
@@ -81,6 +85,7 @@ After completing File 12, pause and ask:
 |---|---|---|---|
 | 13 | `30-agent/31-my-agent.md` | Character brief — who the agent is, how it communicates, what it stands for | 20–25 min |
 | 14 | `30-agent/32-rules.md` | Operating rules — what it can do, must check, and will never do | 15–20 min |
+| | | **30-agent/ total** | **~35–45 min** |
 
 ---
 
