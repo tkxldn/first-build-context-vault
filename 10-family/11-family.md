@@ -33,7 +33,7 @@ AREA 1 — WHO IS IN MY HOUSEHOLD
 - What does a typical weekday morning in my household look like? Who does what, in what order?
 
 AREA 2 — THE PEOPLE AND RELATIONSHIPS
-Note: this area covers household and close family dynamics. Your friendships and broader social world are covered in `03-life.md`.
+Note: for questions about non-household friends, community, or broader social circles, answer in `00-me/03-life.md` instead. This section is for people who live with you or are part of your daily household operations.
 
 - For each person in or close to my household: what do they need from me on a regular basis? What do I need from them?
 - Where do my relationships within the household require the most of my attention or energy?

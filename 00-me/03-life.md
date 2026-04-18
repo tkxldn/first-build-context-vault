@@ -26,7 +26,7 @@ If any question feels too personal to give to an AI, skip it. But lean toward sh
 Begin the interview now.
 
 AREA 1 — MY SOCIAL WORLD
-Note: this area covers friendships, communities, and your broader social world beyond your immediate household. The people you live with and close family dynamics are covered in `11-family.md`.
+Note: for questions about household members or immediate family — people you live with or who manage daily life with you — answer in `10-family/11-family.md` instead. This section is for friends, chosen family, and community outside your household.
 
 - Who are the friends and people outside my household who matter most to me right now? Not a full list — the ones I would notice if they were gone.
 - How do I maintain close friendships? What does that actually look like in practice — how often, in what form?
